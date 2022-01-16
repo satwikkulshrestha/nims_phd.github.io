@@ -1,0 +1,259 @@
+@media (min-width:1200px){
+	body {line-height: 24px; font-size: 17px;}
+	.nav {position: absolute; z-index: 9; let: 0; righ: 0; top: 0; margin: auto; width: 100%; height: 1px;}
+	.carousel-caption { top: 263px; text-align: left;}
+	.carousel-caption h3 {width: 38%; font-weight: 900; font-size: 45px; line-height: 45px; margin-bottom: 5px;}
+	.carousel-caption p {width: 27%; line-height: 28px; font-size: 1.2rem}
+	.carousel-indicators {right: inherit; bottom: 5%;}
+	.form-control:focus {color: #fff;}	
+	select.form-control {font-size: 14px; }
+	.frm {position: absolute; z-index: 99; top: 105px; right: 9%; width: 450px; margin: auto}
+	.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link { border: 1px solid #c1c1c1; background: #ebebeb; color: #282828; font-size: 14px;}
+	.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active { border: 1px solid #00adee;}
+	.frm_bg {background-color: #fff; padding: 25px 35px; border-radius: 15px;}
+	.frm_bg .btn-success {font-size: 1rem}
+	.form-control { font-size: 1rem; font-weight: 400; color: #777; background-color: inherit; border: 0; border-bottom: 1px solid #898e9b; border-radius: 0rem;}	
+	#events {margin-top: -60px; padding-bottom: 100px; background: #f1f5f8; margin-bottom: 0;}
+	.events .owl-prev {float: left; margin-left: -5px!important; background: #fec200;}
+	.events .owl-nav { margin: auto; text-align: right; position: absolute; left: 0; right: -10px; top: 40px; height: 0; clear: both; z-index: 9}
+	.events2 .text {border-right: 1px solid #bd9611; margin: 40px 0; padding: 0 20px}
+	/*.owl-dots {display: none;}*/
+	#scholar {margin: 105px 0;}
+	.scholar {padding: 60px;}
+	.scholar_tag {background: #00adee; height: 500px; width: 500px; top: -100px; left: -50px; display: block; z-index: 9999; position: absolute; }
+	.scholar_tag:before {background: #fec200; height: 600px; width: 600px; top: 50px; left: -130px; content: ''; display: block; border-radius: 100%; z-index: 1px; position: absolute }
+	.scholar_tag .text {position: absolute; top: 130px; left: 30px; right: 0; margin: auto; padding: 50px 50px 50px 0px;}
+	.scholar_tag .text h2 {line-height: 40px;}
+	
+	.usp { width: 30em; height: 30em; border-radius: 50%; background-color: #fff; border: 80px solid #f1f5f8; z-index: 99999;position: absolute; top: -30px; left: 0px}
+	.usps .owl-carousel .owl-nav button.owl-next, .usps .owl-carousel .owl-nav button.owl-prev, .usps .owl-carousel button.owl-dot, .usps .owl-carousel .owl-nav button.owl-prev, .usps .owl-carousel .owl-nav button.owl-prev, .usps .owl-carousel button.owl-dot 	{color: #282828; font-size: 22px; background: #fff; border-radius: 100px; width: 25px; height: 25px; font-weight: 500;}
+	#why {background-size: 50% 100%;}
+	.why {background-attachment: no-repeat left 120px;}
+	#why {padding: 55px 0 0 0;}
+	.why_sharda {padding: 0px 55px 35px 0px;}
+	.study_india_img {top: 45px;}
+	.w_sharda {padding: 0 0px 0 75px; background: inherit;}
+	.w_sharda ul li {padding: 40px 0 40px 0}
+	.a_bottom {margin-top: 3%;}
+	/*.toptab .text {margin-top: 30px;}*/
+	.resp-tab-content { padding: 35px;}
+	.welcome {background-size: auto;}
+	/*.welcome {min-height: 577px;}*/
+	.welcome {padding: 85px 85px 85px 155px;}
+	.cap {margin-top: -25px; margin-right: -25px;}
+	.how_to_apply {padding: 85px 0 85px 85px;}
+	.pr_zero {padding-right: 0}
+	.pl_zero {padding-left: 0}
+	#welcome {margin: 105px 0 15px 0;}
+	#faculty {margin: 340px 0 120px 0; padding: 25px 0 55px 0}
+	.faculty {margin-top: -280px;}
+	.faculty .owl-nav {bottom: 0px;}
+	#global {padding: 82px 100px 0 100px;}
+	.wh_content {min-height: 175px;}
+	.wh { min-height: 320px; margin: 0 5px 25px 5px;}
+	#testi {margin: 0 0 120px 0;}
+	.testi1 .owl-dots, .global .owl-dots {display: block}
+	.testi1 .events .owl-nav, .global .owl-nav, .tieups .owl-nav, .scholar .owl-nav {display: none}	
+	.global .text {padding: 25px 45px; min-height: 300px}
+	#awards {padding: 125px 0; margin: 0 0 0 0;}
+	.awards ul li {height: 280px;}
+	#toptab {margin-top: 55px; }
+	/*.tabbg h2 {margin-bottom: 40px!important;}*/
+	.content_new select {width: 450px;}
+	 /*.frm input { background-color:rgba(0,0,0,0) !important;}*/
+	 .frm select { background-color:rgba(0,0,0,0) !important;}
+	.owl-carousel_six .owl-nav {display: none}
+	.owl-carousel_six .owl-dots {display: block;}
+	.tieups {width: 1143px; margin: auto; margin-top: -200px;}
+	#tieups { padding-bottom: 120px ; background-color: #f1f5f8;}
+	#tieups { margin: 320px 0 0 0;}
+	.photo-gallery .owl-nav, .photo-gallery .owl-dots, .usps .owl-dots {display: none}
+	.photo-gallery .intro { max-width:750px; margin:0 auto 20px;}
+	.photo-gallery {padding: 65px 0 25px 0}
+	.no-gutters { margin-right: -15px; margin-left: -15px;}
+	.left_mrgn { margin-left: 135px;}
+}
+
+@media (min-width:1600px) {
+
+}
+@media (min-width:992px) and (max-width:1199px){
+	.events h2 {margin-bottom: 10px;}
+	.navbar-light .navbar-nav .nav-link {font-size: 12px;}
+	.call {font-size: 13px;}	
+	#awards {background-size: cover;}
+	.global h2 {color: #fff;}
+	.testi span.orange{color: #fff}
+	.global .owl-nav, .testi .owl-nav, .faculty .owl-nav {display: none;}
+}
+
+@media screen and (max-width: 1024px) {
+#tieups .hand .hand_width {width: 96%}
+} 
+
+@media (min-width:768px) and (max-width:991px) {
+	.frm_section {background: #eeeeee}
+	.events h2 {margin-bottom: 10px;}
+	.navbar-light .navbar-nav .nav-link {font-size: 12px;}
+	.call {font-size: 13px;}	
+	#awards {background-size: cover;}
+	.global h2 {color: #fff;}
+	.testi span.orange{color: #fff}
+	.global .owl-nav, .testi .owl-nav, .faculty .owl-nav {display: none;}
+	.awards ul li {width: 49.5%; min-height: 350px;}
+	.tieups ul li {width: 49%;}
+	#tieups .hand .hand_width {width: 96%}
+}
+
+@media (max-width:767px){
+	.frm_section {background: #eeeeee}
+	.events h2 {margin-bottom: 10px;}
+	.usp {padding: 62px 15px}
+	.owl-nav {display: none;}
+	#awards {background-size: cover;}
+	#events {color: #282828;}
+	.nav {position: absolute; z-index: 99;}
+	.global h2, .testi span.orange {color: #fff;}
+	.photo-gallery h2 { padding-top:25px; font-size:24px;}
+	.tieups ul li {width: 100%;}
+	#tieups .hand .hand_width {width: 96%}
+	#why h6, #why table, #why p {color: #fff;}
+	#why .w_sharda h2, #why ul {color: #282828;}
+	
+}
+
+@media only screen and (min-device-width:481px) and (max-device-width:1024px) and (orientation:landscape){
+
+}
+ 
+@media only screen and (min-device-width:360px) and (max-device-width:640px) and (orientation:landscape){
+
+}
+
+@media (max-width:800px){
+	#tieups .hand .hand_width {width: 96%}
+}
+
+@media (max-width:768px){
+	.frm_section {background: #eeeeee}
+	.events h2 {margin-bottom: 10px;}
+	.usp {padding: 62px 15px}
+	.owl-nav {display: none;}
+	#awards {background-size: cover;}
+	#events {color: #282828;}
+	.nav {position: absolute; z-index: 99;}
+	.global h2, .testi span.orange {color: #fff;}
+	.awards ul li {width: 49.5%; min-height: 350px;}
+	#tieups .hand .hand_width {width: 96%}
+	#why h6, #why table, #why p {color: #fff;}
+	#why .w_sharda h2, #why ul {color: #282828;}
+}
+
+@media (max-width:640px){
+}
+
+
+
+@media only screen and (max-width: 576px)
+	
+{
+	
+	
+}
+
+@media (max-width:480px){
+	.frm_section {background: #eeeeee}
+	#demo, .nav {margin: 0 15px;}
+	#events {color: #282828;}
+	.events h2 {margin-bottom: 10px;;}
+	.events p.date {float: inherit; background: #ffba00; border-radius: 0; line-height: 15px; width: 150px; height: auto; font-size: 14px; text-align: center; color: #000; padding: 5px 5px; position: inherit; margin: 0 auto 10px auto;}
+	.events .owl-nav {text-align: center;}
+	.owl-nav {display: none;}
+	.carousel-caption {bottom: 15%}
+	.usp {padding: 15px}
+	#awards {background-size: cover;}
+	.testi span.orange{color: #fff}
+	footer ul {	margin-left: 10px;}
+	.border-right { border-top: 1px solid #373737; border-bottom: 1px solid #373737; height: 5px; width: 100%; margin: 15px 0;}	
+	.global h2 {color: #fff;}
+	.awards ul li {width: 320px; margin: auto; float: inherit; min-height: inherit;}
+	.tieups ul li {width: 320px; margin: auto; float: inherit; min-height: inherit;}
+	.photo-gallery .owl-nav, .photo-gallery .owl-dots {display: none}
+	.custom-control-label {font-size: 10px;}
+	#tieups .hand .hand_width {width: 91%}
+	.w_sharda ul li {margin: 5px 0; clear: both}
+	.mobile-verify {display: block; margin-bottom: 10px}
+	#why h6, #why table, #why p {color: #fff;}
+	#why .w_sharda h2, #why ul {color: #282828;}
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width:667px){
+	#demo, .nav {margin: 0 15px;}
+	.navbar-brand img {width: 130px;}
+	.nav p {font-size: 11px;}
+	.carousel-caption {bottom: 5%}
+	.w_sharda ul li .w_right {width: 77%;}
+	.carousel-caption {bottom: 5%}
+	.carousel-caption h3 {font-size: 14px;}
+}
+
+
+@media (max-width:360px){
+	#demo, .nav {margin: 0 15px;}
+	#events {color: #282828;}
+	.navbar-brand img {width: 140px;}
+	.nav p {font-size: 11px;}
+	.events h2 {margin-bottom: 10px;}
+	.events p.date {float: inherit; background: #ffba00; border-radius: 0; line-height: 15px; width: 150px; height: auto; font-size: 14px; text-align: center; color: #000; padding: 5px 5px; position: inherit; margin: 0 auto 10px auto;}
+	.events .owl-nav {text-align: center;}
+	.carousel-caption {bottom: 25%}
+	.usp {padding: 15px}
+	#awards {background-size: cover;}
+	.carousel-caption {bottom: 5%}
+	.carousel-caption h3 {font-size: 14px;}
+	.navbar {padding: .5rem 0;}
+	.frm .col {flex-basis: inherit; flex-grow: inherit}
+	.usp h2 {color: #ee7226}
+	.w_sharda ul li .w_right {width: 77%;}
+	.w_sharda ul li {margin: 5px 0; clear: both}
+	.global h2 {color: #fff;}
+	.awards ul li {width: 90%; margin: auto; float: inherit; min-height: inherit;}
+}
+	
+
+@media (max-width:320px){
+	.awards ul li {width: 90%; margin: auto; float: inherit}
+	
+}
+
+@media only screen and (max-width: 320px) {
+	#events {color: #282828;}
+	#demo, .nav {margin: 0 15px;}
+	.navbar-brand {width: 150px;}
+	.events h2 {margin-bottom: 10px;}
+	.events p.date {float: inherit; background: #ffba00; border-radius: 0; line-height: 15px; width: 150px; height: auto; font-size: 14px; text-align: center; color: #000; padding: 5px 5px; position: inherit; margin: 0 auto 10px auto;}
+	.events .owl-nav {text-align: center;}
+	.carousel-caption {bottom: 25%}
+	.usp {padding: 15px}
+	#awards {background-size: cover;}
+	.carousel-caption {bottom: 5%}
+	.carousel-caption h3 {font-size: 14px;}
+	.carousel-caption p {font-size: 11px; line-height: 16px;}
+	.navbar {padding: .5rem 0;}
+	.navbar-toggler {padding: 0;}
+	.navbar-brand {width: inherit}
+	.navbar-brand img {width: 120px;}
+	.frm .col {flex-basis: inherit; flex-grow: inherit}
+	.usp h2 {color: #ee7226}
+	.w_sharda ul li .w_right {width: 77%;}
+	.w_sharda ul li {margin: 25px 0; clear: both;}
+	.global h2 {color: #fff;}
+	.awards ul li {width: 90%; margin: auto; float: inherit; min-height: inherit;}
+
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation : landscape) {
+
+
+
+}
